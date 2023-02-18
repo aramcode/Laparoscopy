@@ -28,13 +28,13 @@ pip install opencv-python matplotlib
 Clone this repository:
 
 ```
-git clone https://github.com/<username>/angle-finder.git
+git clone https://github.com/aramcode/Laparoscopy.git
 ```
 
 Change into the project directory:
 
 ```
-cd angle-finder
+cd anglefinder
 ```
 
 ## Usage
